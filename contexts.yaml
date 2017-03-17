@@ -1,0 +1,16 @@
+gostubhub:
+  scope: PRODUCTION
+  server: https://api.stubhub.com
+  application_token: my_production_application_token
+  customer_key: my_production_customer_key
+  customer_secret: my_production_customer_secret
+  user_name: bruceadowns@gmail.com
+  password: my_production_password
+sandbox:
+  scope: SANDBOX
+  server: https://api.stubhubsandbox.com
+  application_token: my_sandbox_application_token
+  customer_key: my_sandbox_customer_key
+  customer_secret: my_sandbox_customer_secret
+  user_name: bruceadowns@gmail.com
+  password: my_sandbox_password

@@ -1,0 +1,2194 @@
+{
+  "numFound": 9,
+  "events": [
+    {
+      "id": 9605819,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Wynton Marsalis",
+      "originalName": "Wynton Marsalis Tickets",
+      "description": "Wynton Marsalis Count Basie Theatre Tickets - Buy and sell Wynton Marsalis Red Bank Tickets for March 16 at Count Basie Theatre in Red Bank, NJ on StubHub!",
+      "eventUrl": "wynton-marsalis-red-bank-count-basie-theatre-3-16-2017-9605819",
+      "webURI": "wynton-marsalis-tickets-wynton-marsalis-red-bank-count-basie-theatre-3-16-2017/event/9605819/",
+      "seoURI": "wynton-marsalis-tickets-wynton-marsalis-red-bank-count-basie-theatre-3-16-2017",
+      "eventDateLocal": "2017-03-16T20:00:00-0400",
+      "dateOnsale": "2016-06-20T18:57:20-0400",
+      "eventDateUTC": "2017-03-17T00:00:00+0000",
+      "venue": {
+        "id": 6323,
+        "name": "Count Basie Theatre",
+        "url": "count-basie-theatre-event-tickets",
+        "webURI": "count-basie-theatre-event-tickets/venue/6323/",
+        "seoURI": "count-basie-theatre-event-tickets",
+        "venueUrl": "count-basie-theatre-event-tickets",
+        "latitude": 40.348837,
+        "longitude": -74.070363,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "99 Monmouth St.",
+        "city": "Red Bank",
+        "state": "NJ",
+        "postalCode": "7701",
+        "country": "US",
+        "venueConfigId": 1232249
+      },
+      "venueConfiguration": {
+        "id": 1232249,
+        "name": "Theater - Sides - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 63914,
+            "name": "Artists T - Z",
+            "url": "artists-t-z",
+            "webURI": "artists-t-z/grouping/63914/",
+            "seoURI": "artists-t-z"
+          }
+        ],
+        "performers": [
+          {
+            "id": 5570,
+            "name": "Wynton Marsalis",
+            "url": "wynton-marsalis-tickets",
+            "webURI": "wynton-marsalis-tickets/performer/5570/",
+            "seoURI": "wynton-marsalis-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 724,
+            "name": "New Jersey",
+            "url": "new-jersey-tickets",
+            "webURI": "new-jersey-tickets/geography/724/",
+            "seoURI": "new-jersey-tickets"
+          },
+          {
+            "id": 80194,
+            "name": "Red Bank",
+            "url": "red-bank-tickets",
+            "webURI": "red-bank-tickets/geography/80194/",
+            "seoURI": "red-bank-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performers": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 724,
+          "name": "New Jersey",
+          "url": "new-jersey-tickets",
+          "webURI": "new-jersey-tickets/geography/724/",
+          "seoURI": "new-jersey-tickets"
+        },
+        {
+          "id": 80194,
+          "name": "Red Bank",
+          "url": "red-bank-tickets",
+          "webURI": "red-bank-tickets/geography/80194/",
+          "seoURI": "red-bank-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        },
+        {
+          "id": 209986,
+          "name": "Blues Music",
+          "url": "blues-music-tickets",
+          "webURI": "blues-music-tickets/category/209986/",
+          "seoURI": "blues-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "height": 789,
+          "width": 1920,
+          "source": "Rovi",
+          "credit": "Rovi"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Wynton Marsalis"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Count Basie Theatre"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 15.834233,
+      "createdDate": "2016-06-20T22:57:20+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9839991,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Jazz at Lincoln Center Orchestra with Wynton Marsalis",
+      "originalName": "Jazz at Lincoln Center Orchestra with Wynton Marsalis Tickets",
+      "description": "Jazz at Lincoln Center Orchestra with Wynton Marsalis Boston Symphony Hall Tickets - Buy and sell Jazz at Lincoln Center Orchestra with Wynton Marsalis Boston Tickets for April 9 at Boston Symphony Hall in Boston, MA on StubHub!",
+      "eventUrl": "jazz-at-lincoln-center-orchestra-with-wynton-marsalis-boston-boston-symphony-hall-4-9-2017-9839991",
+      "webURI": "jazz-at-lincoln-center-orchestra-tickets-jazz-at-lincoln-center-orchestra-with-wynton-marsalis-boston-boston-symphony-hall-4-9-2017/event/9839991/",
+      "seoURI": "jazz-at-lincoln-center-orchestra-tickets-jazz-at-lincoln-center-orchestra-with-wynton-marsalis-boston-boston-symphony-hall-4-9-2017",
+      "eventDateLocal": "2017-04-09T17:00:00-0400",
+      "dateOnsale": "2017-03-02T09:48:29-0500",
+      "eventDateUTC": "2017-04-09T21:00:00+0000",
+      "venue": {
+        "id": 2202,
+        "name": "Boston Symphony Hall",
+        "url": "boston-symphony-hall-event-tickets",
+        "webURI": "boston-symphony-hall-event-tickets/venue/2202/",
+        "seoURI": "boston-symphony-hall-event-tickets",
+        "venueUrl": "boston-symphony-hall-event-tickets",
+        "latitude": 42.343064,
+        "longitude": -71.085404,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "301 Massachusetts Avenue",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "2115",
+        "country": "US",
+        "venueConfigId": 2563
+      },
+      "venueConfiguration": {
+        "id": 2563,
+        "name": "Concert - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 64010,
+            "name": "Artists H - K",
+            "url": "artists-h-k",
+            "webURI": "artists-h-k/grouping/64010/",
+            "seoURI": "artists-h-k"
+          }
+        ],
+        "performers": [
+          {
+            "id": 248986,
+            "name": "Jazz at Lincoln Center Orchestra",
+            "url": "jazz-at-lincoln-center-orchestra-tickets",
+            "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+            "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 673,
+            "name": "Massachusetts",
+            "url": "massachusetts-tickets",
+            "webURI": "massachusetts-tickets/geography/673/",
+            "seoURI": "massachusetts-tickets"
+          },
+          {
+            "id": 674,
+            "name": "Boston",
+            "url": "boston-mass-tickets",
+            "webURI": "boston-mass-tickets/geography/674/",
+            "seoURI": "boston-mass-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performers": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 673,
+          "name": "Massachusetts",
+          "url": "massachusetts-tickets",
+          "webURI": "massachusetts-tickets/geography/673/",
+          "seoURI": "massachusetts-tickets"
+        },
+        {
+          "id": 674,
+          "name": "Boston",
+          "url": "boston-mass-tickets",
+          "webURI": "boston-mass-tickets/geography/674/",
+          "seoURI": "boston-mass-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        },
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets",
+          "role": "ACCOMPANYING_ACT"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "height": 854,
+          "width": 1280,
+          "source": "Stocksy",
+          "credit": "Stocksy"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Jazz at Lincoln Center Orchestra with Wynton Marsalis"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Boston Symphony Hall"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 7.9171166,
+      "createdDate": "2017-03-02T14:48:29+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9799025,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Celebrating Ella: The First Lady of Jazz - The Jazz at Lincoln Center with Wynton Marsalis",
+      "originalName": "Celebrating Ella: The First Lady of Jazz - The Jazz at Lincoln Center with Wynton Marsalis Tickets",
+      "description": "Celebrating Ella: The First Lady of Jazz with Wynton Marsalis Rose Theater at Lincoln Center Tickets - Buy and sell Celebrating Ella: The First Lady of Jazz with Wynton Marsalis New York Tickets for April 27 at Rose Theater at Lincoln Center in New York, NY on StubHub!",
+      "eventUrl": "celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-27-2017-9799025",
+      "webURI": "jazz-at-lincoln-center-orchestra-tickets-celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-27-2017/event/9799025/",
+      "seoURI": "jazz-at-lincoln-center-orchestra-tickets-celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-27-2017",
+      "eventDateLocal": "2017-04-27T20:00:00-0400",
+      "dateOnsale": "2017-01-17T12:15:42-0500",
+      "eventDateUTC": "2017-04-28T00:00:00+0000",
+      "venue": {
+        "id": 26766,
+        "name": "Rose Theater at Lincoln Center",
+        "url": "rose-theater-at-lincoln-center-event-tickets",
+        "webURI": "rose-theater-at-lincoln-center-event-tickets/venue/26766/",
+        "seoURI": "rose-theater-at-lincoln-center-event-tickets",
+        "venueUrl": "rose-theater-at-lincoln-center-event-tickets",
+        "latitude": 40.773651,
+        "longitude": -73.983714,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "Damrosch Park Broadway & West 63rd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10023",
+        "country": "US",
+        "venueConfigId": 30293
+      },
+      "venueConfiguration": {
+        "id": 30293,
+        "name": "Theater - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 64010,
+            "name": "Artists H - K",
+            "url": "artists-h-k",
+            "webURI": "artists-h-k/grouping/64010/",
+            "seoURI": "artists-h-k"
+          }
+        ],
+        "performers": [
+          {
+            "id": 248986,
+            "name": "Jazz at Lincoln Center Orchestra",
+            "url": "jazz-at-lincoln-center-orchestra-tickets",
+            "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+            "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 561,
+            "name": "New York",
+            "url": "new-york-tickets",
+            "webURI": "new-york-tickets/geography/561/",
+            "seoURI": "new-york-tickets"
+          },
+          {
+            "id": 664,
+            "name": "New York Metro",
+            "url": "new-york-metro-tickets",
+            "webURI": "new-york-metro-tickets/geography/664/",
+            "seoURI": "new-york-metro-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performers": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 561,
+          "name": "New York",
+          "url": "new-york-tickets",
+          "webURI": "new-york-tickets/geography/561/",
+          "seoURI": "new-york-tickets"
+        },
+        {
+          "id": 664,
+          "name": "New York Metro",
+          "url": "new-york-metro-tickets",
+          "webURI": "new-york-metro-tickets/geography/664/",
+          "seoURI": "new-york-metro-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        },
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets",
+          "role": "ACCOMPANYING_ACT"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "height": 854,
+          "width": 1280,
+          "source": "Stocksy",
+          "credit": "Stocksy"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Celebrating Ella: The First Lady of Jazz with Wynton Marsalis"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Rose Theater at Lincoln Center"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 6.3336935,
+      "createdDate": "2017-01-17T17:15:42+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9799026,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Celebrating Ella: The First Lady of Jazz - The Jazz at Lincoln Center with Wynton Marsalis",
+      "originalName": "Celebrating Ella: The First Lady of Jazz - The Jazz at Lincoln Center with Wynton Marsalis Tickets",
+      "description": "Celebrating Ella: The First Lady of Jazz with Wynton Marsalis Rose Theater at Lincoln Center Tickets - Buy and sell Celebrating Ella: The First Lady of Jazz with Wynton Marsalis New York Tickets for April 28 at Rose Theater at Lincoln Center in New York, NY on StubHub!",
+      "eventUrl": "celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-28-2017-9799026",
+      "webURI": "jazz-at-lincoln-center-orchestra-tickets-celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-28-2017/event/9799026/",
+      "seoURI": "jazz-at-lincoln-center-orchestra-tickets-celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-28-2017",
+      "eventDateLocal": "2017-04-28T20:00:00-0400",
+      "dateOnsale": "2017-01-17T12:15:46-0500",
+      "eventDateUTC": "2017-04-29T00:00:00+0000",
+      "venue": {
+        "id": 26766,
+        "name": "Rose Theater at Lincoln Center",
+        "url": "rose-theater-at-lincoln-center-event-tickets",
+        "webURI": "rose-theater-at-lincoln-center-event-tickets/venue/26766/",
+        "seoURI": "rose-theater-at-lincoln-center-event-tickets",
+        "venueUrl": "rose-theater-at-lincoln-center-event-tickets",
+        "latitude": 40.773651,
+        "longitude": -73.983714,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "Damrosch Park Broadway & West 63rd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10023",
+        "country": "US",
+        "venueConfigId": 30293
+      },
+      "venueConfiguration": {
+        "id": 30293,
+        "name": "Theater - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 64010,
+            "name": "Artists H - K",
+            "url": "artists-h-k",
+            "webURI": "artists-h-k/grouping/64010/",
+            "seoURI": "artists-h-k"
+          }
+        ],
+        "performers": [
+          {
+            "id": 248986,
+            "name": "Jazz at Lincoln Center Orchestra",
+            "url": "jazz-at-lincoln-center-orchestra-tickets",
+            "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+            "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 561,
+            "name": "New York",
+            "url": "new-york-tickets",
+            "webURI": "new-york-tickets/geography/561/",
+            "seoURI": "new-york-tickets"
+          },
+          {
+            "id": 664,
+            "name": "New York Metro",
+            "url": "new-york-metro-tickets",
+            "webURI": "new-york-metro-tickets/geography/664/",
+            "seoURI": "new-york-metro-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performers": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 561,
+          "name": "New York",
+          "url": "new-york-tickets",
+          "webURI": "new-york-tickets/geography/561/",
+          "seoURI": "new-york-tickets"
+        },
+        {
+          "id": 664,
+          "name": "New York Metro",
+          "url": "new-york-metro-tickets",
+          "webURI": "new-york-metro-tickets/geography/664/",
+          "seoURI": "new-york-metro-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        },
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets",
+          "role": "ACCOMPANYING_ACT"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "height": 854,
+          "width": 1280,
+          "source": "Stocksy",
+          "credit": "Stocksy"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Celebrating Ella: The First Lady of Jazz with Wynton Marsalis"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Rose Theater at Lincoln Center"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 6.3336935,
+      "createdDate": "2017-01-17T17:15:46+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9799027,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Celebrating Ella: The First Lady of Jazz - The Jazz at Lincoln Center with Wynton Marsalis",
+      "originalName": "Celebrating Ella: The First Lady of Jazz - The Jazz at Lincoln Center with Wynton Marsalis Tickets",
+      "description": "Celebrating Ella: The First Lady of Jazz with Wynton Marsalis Rose Theater at Lincoln Center Tickets - Buy and sell Celebrating Ella: The First Lady of Jazz with Wynton Marsalis New York Tickets for April 29 at Rose Theater at Lincoln Center in New York, NY on StubHub!",
+      "eventUrl": "celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-29-2017-9799027",
+      "webURI": "jazz-at-lincoln-center-orchestra-tickets-celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-29-2017/event/9799027/",
+      "seoURI": "jazz-at-lincoln-center-orchestra-tickets-celebrating-ella--the-first-lady-of-jazz-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-4-29-2017",
+      "eventDateLocal": "2017-04-29T20:00:00-0400",
+      "dateOnsale": "2017-01-17T12:15:52-0500",
+      "eventDateUTC": "2017-04-30T00:00:00+0000",
+      "venue": {
+        "id": 26766,
+        "name": "Rose Theater at Lincoln Center",
+        "url": "rose-theater-at-lincoln-center-event-tickets",
+        "webURI": "rose-theater-at-lincoln-center-event-tickets/venue/26766/",
+        "seoURI": "rose-theater-at-lincoln-center-event-tickets",
+        "venueUrl": "rose-theater-at-lincoln-center-event-tickets",
+        "latitude": 40.773651,
+        "longitude": -73.983714,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "Damrosch Park Broadway & West 63rd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10023",
+        "country": "US",
+        "venueConfigId": 30293
+      },
+      "venueConfiguration": {
+        "id": 30293,
+        "name": "Theater - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 64010,
+            "name": "Artists H - K",
+            "url": "artists-h-k",
+            "webURI": "artists-h-k/grouping/64010/",
+            "seoURI": "artists-h-k"
+          }
+        ],
+        "performers": [
+          {
+            "id": 248986,
+            "name": "Jazz at Lincoln Center Orchestra",
+            "url": "jazz-at-lincoln-center-orchestra-tickets",
+            "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+            "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 561,
+            "name": "New York",
+            "url": "new-york-tickets",
+            "webURI": "new-york-tickets/geography/561/",
+            "seoURI": "new-york-tickets"
+          },
+          {
+            "id": 664,
+            "name": "New York Metro",
+            "url": "new-york-metro-tickets",
+            "webURI": "new-york-metro-tickets/geography/664/",
+            "seoURI": "new-york-metro-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performers": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 561,
+          "name": "New York",
+          "url": "new-york-tickets",
+          "webURI": "new-york-tickets/geography/561/",
+          "seoURI": "new-york-tickets"
+        },
+        {
+          "id": 664,
+          "name": "New York Metro",
+          "url": "new-york-metro-tickets",
+          "webURI": "new-york-metro-tickets/geography/664/",
+          "seoURI": "new-york-metro-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 64010,
+          "name": "Artists H - K",
+          "url": "artists-h-k",
+          "webURI": "artists-h-k/grouping/64010/",
+          "seoURI": "artists-h-k"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets"
+        },
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets",
+          "role": "ACCOMPANYING_ACT"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/5OcAAOSwTuJYo4Jm/s-l1600.jpg",
+          "height": 854,
+          "width": 1280,
+          "source": "Stocksy",
+          "credit": "Stocksy"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Celebrating Ella: The First Lady of Jazz with Wynton Marsalis"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Rose Theater at Lincoln Center"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 6.3336935,
+      "createdDate": "2017-01-17T17:15:52+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9667269,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Jazz At Lincoln Center Orchestra with Wynton Marsalis",
+      "originalName": "Jazz At Lincoln Center Orchestra with Wynton Marsalis Tickets",
+      "description": "Jazz At Lincoln Center Orchestra with Wynton Marsalis Tilles Center for the Performing Arts Tickets - Buy and sell Jazz At Lincoln Center Orchestra with Wynton Marsalis Brookville Tickets for April 30 at Tilles Center for the Performing Arts in Brookville, NY on StubHub!",
+      "eventUrl": "jazz-at-lincoln-center-orchestra-with-wynton-marsalis-brookville-tilles-center-for-the-performing-arts-4-30-2017-9667269",
+      "webURI": "wynton-marsalis-tickets-jazz-at-lincoln-center-orchestra-with-wynton-marsalis-brookville-tilles-center-for-the-performing-arts-4-30-2017/event/9667269/",
+      "seoURI": "wynton-marsalis-tickets-jazz-at-lincoln-center-orchestra-with-wynton-marsalis-brookville-tilles-center-for-the-performing-arts-4-30-2017",
+      "eventDateLocal": "2017-04-30T19:00:00-0400",
+      "dateOnsale": "2016-09-14T22:35:23-0400",
+      "eventDateUTC": "2017-04-30T23:00:00+0000",
+      "venue": {
+        "id": 79185,
+        "name": "Tilles Center for the Performing Arts",
+        "url": "tilles-center-for-the-performing-arts-event-tickets",
+        "webURI": "tilles-center-for-the-performing-arts-event-tickets/venue/79185/",
+        "seoURI": "tilles-center-for-the-performing-arts-event-tickets",
+        "venueUrl": "tilles-center-for-the-performing-arts-event-tickets",
+        "latitude": 40.817128,
+        "longitude": -73.597782,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "Long Island University",
+        "address2": "720 Northern Boulevard",
+        "city": "Brookville",
+        "state": "NY",
+        "postalCode": "11548",
+        "country": "US",
+        "venueConfigId": 92745
+      },
+      "venueConfiguration": {
+        "id": 92745,
+        "name": "Theatre-Concert - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 63914,
+            "name": "Artists T - Z",
+            "url": "artists-t-z",
+            "webURI": "artists-t-z/grouping/63914/",
+            "seoURI": "artists-t-z"
+          }
+        ],
+        "performers": [
+          {
+            "id": 5570,
+            "name": "Wynton Marsalis",
+            "url": "wynton-marsalis-tickets",
+            "webURI": "wynton-marsalis-tickets/performer/5570/",
+            "seoURI": "wynton-marsalis-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 561,
+            "name": "New York",
+            "url": "new-york-tickets",
+            "webURI": "new-york-tickets/geography/561/",
+            "seoURI": "new-york-tickets"
+          },
+          {
+            "id": 664,
+            "name": "New York Metro",
+            "url": "new-york-metro-tickets",
+            "webURI": "new-york-metro-tickets/geography/664/",
+            "seoURI": "new-york-metro-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performers": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 561,
+          "name": "New York",
+          "url": "new-york-tickets",
+          "webURI": "new-york-tickets/geography/561/",
+          "seoURI": "new-york-tickets"
+        },
+        {
+          "id": 664,
+          "name": "New York Metro",
+          "url": "new-york-metro-tickets",
+          "webURI": "new-york-metro-tickets/geography/664/",
+          "seoURI": "new-york-metro-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        },
+        {
+          "id": 209986,
+          "name": "Blues Music",
+          "url": "blues-music-tickets",
+          "webURI": "blues-music-tickets/category/209986/",
+          "seoURI": "blues-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        },
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets",
+          "role": "ACCOMPANYING_ACT"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "height": 789,
+          "width": 1920,
+          "source": "Rovi",
+          "credit": "Rovi"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Jazz At Lincoln Center Orchestra with Wynton Marsalis"
+        },
+        {
+          "name": "act_secondary",
+          "value": "Jazz At Lincoln Center Orchestra"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Tilles Center for the Performing Arts"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 7.9171166,
+      "createdDate": "2016-09-15T02:35:23+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9667270,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Jazz At Lincoln Center Orchestra with Wynton Marsalis",
+      "originalName": "Jazz At Lincoln Center Orchestra with Wynton Marsalis Tickets",
+      "description": "Jazz At Lincoln Center Orchestra with Wynton Marsalis Bergen Performing Arts Center Tickets - Buy and sell Jazz At Lincoln Center Orchestra with Wynton Marsalis Englewood Tickets for May 3 at Bergen Performing Arts Center in Englewood, NJ on StubHub!",
+      "eventUrl": "jazz-at-lincoln-center-orchestra-with-wynton-marsalis-englewood-bergen-performing-arts-center-5-3-2017-9667270",
+      "webURI": "wynton-marsalis-tickets-jazz-at-lincoln-center-orchestra-with-wynton-marsalis-englewood-bergen-performing-arts-center-5-3-2017/event/9667270/",
+      "seoURI": "wynton-marsalis-tickets-jazz-at-lincoln-center-orchestra-with-wynton-marsalis-englewood-bergen-performing-arts-center-5-3-2017",
+      "eventDateLocal": "2017-05-03T20:00:00-0400",
+      "dateOnsale": "2016-09-14T22:36:04-0400",
+      "eventDateUTC": "2017-05-04T00:00:00+0000",
+      "venue": {
+        "id": 78387,
+        "name": "Bergen Performing Arts Center",
+        "url": "bergen-performing-arts-center-event-tickets",
+        "webURI": "bergen-performing-arts-center-event-tickets/venue/78387/",
+        "seoURI": "bergen-performing-arts-center-event-tickets",
+        "venueUrl": "bergen-performing-arts-center-event-tickets",
+        "latitude": 40.894695,
+        "longitude": -73.975005,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "30 North Van Brunt Street",
+        "city": "Englewood",
+        "state": "NJ",
+        "postalCode": "7631",
+        "country": "US",
+        "venueConfigId": 91113
+      },
+      "venueConfiguration": {
+        "id": 91113,
+        "name": "End Stage - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 63914,
+            "name": "Artists T - Z",
+            "url": "artists-t-z",
+            "webURI": "artists-t-z/grouping/63914/",
+            "seoURI": "artists-t-z"
+          }
+        ],
+        "performers": [
+          {
+            "id": 5570,
+            "name": "Wynton Marsalis",
+            "url": "wynton-marsalis-tickets",
+            "webURI": "wynton-marsalis-tickets/performer/5570/",
+            "seoURI": "wynton-marsalis-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 724,
+            "name": "New Jersey",
+            "url": "new-jersey-tickets",
+            "webURI": "new-jersey-tickets/geography/724/",
+            "seoURI": "new-jersey-tickets"
+          },
+          {
+            "id": 78386,
+            "name": "Englewood",
+            "url": "englewood-tickets",
+            "webURI": "englewood-tickets/geography/78386/",
+            "seoURI": "englewood-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performers": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 724,
+          "name": "New Jersey",
+          "url": "new-jersey-tickets",
+          "webURI": "new-jersey-tickets/geography/724/",
+          "seoURI": "new-jersey-tickets"
+        },
+        {
+          "id": 78386,
+          "name": "Englewood",
+          "url": "englewood-tickets",
+          "webURI": "englewood-tickets/geography/78386/",
+          "seoURI": "englewood-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        },
+        {
+          "id": 209986,
+          "name": "Blues Music",
+          "url": "blues-music-tickets",
+          "webURI": "blues-music-tickets/category/209986/",
+          "seoURI": "blues-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        },
+        {
+          "id": 248986,
+          "name": "Jazz at Lincoln Center Orchestra",
+          "url": "jazz-at-lincoln-center-orchestra-tickets",
+          "webURI": "jazz-at-lincoln-center-orchestra-tickets/performer/248986/",
+          "seoURI": "jazz-at-lincoln-center-orchestra-tickets",
+          "role": "ACCOMPANYING_ACT"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "height": 789,
+          "width": 1920,
+          "source": "Rovi",
+          "credit": "Rovi"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Jazz At Lincoln Center Orchestra with Wynton Marsalis"
+        },
+        {
+          "name": "act_secondary",
+          "value": "Jazz At Lincoln Center Orchestra"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Bergen Performing Arts Center"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 7.9171166,
+      "createdDate": "2016-09-15T02:36:04+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9822657,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Duke Meets the Count with Wynton Marsalis",
+      "originalName": "Duke Meets the Count with Wynton Marsalis Tickets",
+      "description": "Duke Meets the Count with Wynton Marsalis Rose Theater at Lincoln Center Tickets - Buy and sell Duke Meets the Count with Wynton Marsalis New York Tickets for May 19 at Rose Theater at Lincoln Center in New York, NY on StubHub!",
+      "eventUrl": "duke-meets-the-count-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-5-19-2017-9822657",
+      "webURI": "wynton-marsalis-tickets-duke-meets-the-count-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-5-19-2017/event/9822657/",
+      "seoURI": "wynton-marsalis-tickets-duke-meets-the-count-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-5-19-2017",
+      "eventDateLocal": "2017-05-19T20:00:00-0400",
+      "dateOnsale": "2017-02-10T14:54:16-0500",
+      "eventDateUTC": "2017-05-20T00:00:00+0000",
+      "venue": {
+        "id": 26766,
+        "name": "Rose Theater at Lincoln Center",
+        "url": "rose-theater-at-lincoln-center-event-tickets",
+        "webURI": "rose-theater-at-lincoln-center-event-tickets/venue/26766/",
+        "seoURI": "rose-theater-at-lincoln-center-event-tickets",
+        "venueUrl": "rose-theater-at-lincoln-center-event-tickets",
+        "latitude": 40.773651,
+        "longitude": -73.983714,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "Damrosch Park Broadway & West 63rd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10023",
+        "country": "US",
+        "venueConfigId": 30293
+      },
+      "venueConfiguration": {
+        "id": 30293,
+        "name": "Theater - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 63914,
+            "name": "Artists T - Z",
+            "url": "artists-t-z",
+            "webURI": "artists-t-z/grouping/63914/",
+            "seoURI": "artists-t-z"
+          }
+        ],
+        "performers": [
+          {
+            "id": 5570,
+            "name": "Wynton Marsalis",
+            "url": "wynton-marsalis-tickets",
+            "webURI": "wynton-marsalis-tickets/performer/5570/",
+            "seoURI": "wynton-marsalis-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 561,
+            "name": "New York",
+            "url": "new-york-tickets",
+            "webURI": "new-york-tickets/geography/561/",
+            "seoURI": "new-york-tickets"
+          },
+          {
+            "id": 664,
+            "name": "New York Metro",
+            "url": "new-york-metro-tickets",
+            "webURI": "new-york-metro-tickets/geography/664/",
+            "seoURI": "new-york-metro-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performers": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 561,
+          "name": "New York",
+          "url": "new-york-tickets",
+          "webURI": "new-york-tickets/geography/561/",
+          "seoURI": "new-york-tickets"
+        },
+        {
+          "id": 664,
+          "name": "New York Metro",
+          "url": "new-york-metro-tickets",
+          "webURI": "new-york-metro-tickets/geography/664/",
+          "seoURI": "new-york-metro-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        },
+        {
+          "id": 209986,
+          "name": "Blues Music",
+          "url": "blues-music-tickets",
+          "webURI": "blues-music-tickets/category/209986/",
+          "seoURI": "blues-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "height": 789,
+          "width": 1920,
+          "source": "Rovi",
+          "credit": "Rovi"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Duke Meets the Count with Wynton Marsalis"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Rose Theater at Lincoln Center"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 9.50054,
+      "createdDate": "2017-02-10T19:54:16+0000",
+      "defaultLocale": "en_US"
+    },
+    {
+      "id": 9822656,
+      "status": "Active",
+      "locale": "en_US",
+      "name": "Duke Meets the Count with Wynton Marsalis",
+      "originalName": "Duke Meets the Count with Wynton Marsalis Tickets",
+      "description": "Duke Meets the Count with Wynton Marsalis Rose Theater at Lincoln Center Tickets - Buy and sell Duke Meets the Count with Wynton Marsalis New York Tickets for May 20 at Rose Theater at Lincoln Center in New York, NY on StubHub!",
+      "eventUrl": "duke-meets-the-count-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-5-20-2017-9822656",
+      "webURI": "wynton-marsalis-tickets-duke-meets-the-count-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-5-20-2017/event/9822656/",
+      "seoURI": "wynton-marsalis-tickets-duke-meets-the-count-with-wynton-marsalis-new-york-rose-theater-at-lincoln-center-5-20-2017",
+      "eventDateLocal": "2017-05-20T20:00:00-0400",
+      "dateOnsale": "2017-02-10T14:54:00-0500",
+      "eventDateUTC": "2017-05-21T00:00:00+0000",
+      "venue": {
+        "id": 26766,
+        "name": "Rose Theater at Lincoln Center",
+        "url": "rose-theater-at-lincoln-center-event-tickets",
+        "webURI": "rose-theater-at-lincoln-center-event-tickets/venue/26766/",
+        "seoURI": "rose-theater-at-lincoln-center-event-tickets",
+        "venueUrl": "rose-theater-at-lincoln-center-event-tickets",
+        "latitude": 40.773651,
+        "longitude": -73.983714,
+        "timezone": "EDT",
+        "jdkTimezone": "US/Eastern",
+        "address1": "Damrosch Park Broadway & West 63rd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10023",
+        "country": "US",
+        "venueConfigId": 30293
+      },
+      "venueConfiguration": {
+        "id": 30293,
+        "name": "Theater - Dynamic"
+      },
+      "bobId": 1,
+      "ancestors": {
+        "categories": [
+          {
+            "id": 0,
+            "url": "all-tickets"
+          },
+          {
+            "id": 1,
+            "name": "Concert",
+            "url": "concert-tickets",
+            "webURI": "concert-tickets/category/1/",
+            "seoURI": "concert-tickets"
+          }
+        ],
+        "groupings": [
+          {
+            "id": 0
+          },
+          {
+            "id": 63914,
+            "name": "Artists T - Z",
+            "url": "artists-t-z",
+            "webURI": "artists-t-z/grouping/63914/",
+            "seoURI": "artists-t-z"
+          }
+        ],
+        "performers": [
+          {
+            "id": 5570,
+            "name": "Wynton Marsalis",
+            "url": "wynton-marsalis-tickets",
+            "webURI": "wynton-marsalis-tickets/performer/5570/",
+            "seoURI": "wynton-marsalis-tickets"
+          }
+        ],
+        "geos": [
+          {
+            "id": 0
+          },
+          {
+            "id": 196976,
+            "name": "United States",
+            "url": "united-states-tickets",
+            "webURI": "united-states-tickets/geography/196976/",
+            "seoURI": "united-states-tickets"
+          },
+          {
+            "id": 561,
+            "name": "New York",
+            "url": "new-york-tickets",
+            "webURI": "new-york-tickets/geography/561/",
+            "seoURI": "new-york-tickets"
+          },
+          {
+            "id": 664,
+            "name": "New York Metro",
+            "url": "new-york-metro-tickets",
+            "webURI": "new-york-metro-tickets/geography/664/",
+            "seoURI": "new-york-metro-tickets"
+          }
+        ]
+      },
+      "sourceId": "1",
+      "categories": [
+        {
+          "id": 0,
+          "url": "all-tickets"
+        },
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        }
+      ],
+      "groupings": [
+        {
+          "id": 0
+        },
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performers": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "geos": [
+        {
+          "id": 0
+        },
+        {
+          "id": 196976,
+          "name": "United States",
+          "url": "united-states-tickets",
+          "webURI": "united-states-tickets/geography/196976/",
+          "seoURI": "united-states-tickets"
+        },
+        {
+          "id": 561,
+          "name": "New York",
+          "url": "new-york-tickets",
+          "webURI": "new-york-tickets/geography/561/",
+          "seoURI": "new-york-tickets"
+        },
+        {
+          "id": 664,
+          "name": "New York Metro",
+          "url": "new-york-metro-tickets",
+          "webURI": "new-york-metro-tickets/geography/664/",
+          "seoURI": "new-york-metro-tickets"
+        }
+      ],
+      "categoriesCollection": [
+        {
+          "id": 1,
+          "name": "Concert",
+          "url": "concert-tickets",
+          "webURI": "concert-tickets/category/1/",
+          "seoURI": "concert-tickets"
+        },
+        {
+          "id": 441194,
+          "name": "Jazz, Blues and RnB Music",
+          "url": "blues-rb-jazz-music-tickets",
+          "webURI": "blues-rb-jazz-music-tickets/category/441194/",
+          "seoURI": "blues-rb-jazz-music-tickets"
+        },
+        {
+          "id": 195737,
+          "name": "Jazz Music",
+          "url": "jazz-music-tickets",
+          "webURI": "jazz-music-tickets/category/195737/",
+          "seoURI": "jazz-music-tickets"
+        },
+        {
+          "id": 209986,
+          "name": "Blues Music",
+          "url": "blues-music-tickets",
+          "webURI": "blues-music-tickets/category/209986/",
+          "seoURI": "blues-music-tickets"
+        }
+      ],
+      "groupingsCollection": [
+        {
+          "id": 63914,
+          "name": "Artists T - Z",
+          "url": "artists-t-z",
+          "webURI": "artists-t-z/grouping/63914/",
+          "seoURI": "artists-t-z"
+        }
+      ],
+      "performersCollection": [
+        {
+          "id": 5570,
+          "name": "Wynton Marsalis",
+          "url": "wynton-marsalis-tickets",
+          "webURI": "wynton-marsalis-tickets/performer/5570/",
+          "seoURI": "wynton-marsalis-tickets"
+        }
+      ],
+      "imageUrl": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+      "images": [
+        {
+          "url": "http://i.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "isResizable": true,
+          "urlSsl": "https://ssli.ebayimg.com/images/g/i1EAAOSwt5hYgWJh/s-l1600.jpg",
+          "height": 789,
+          "width": 1920,
+          "source": "Rovi",
+          "credit": "Rovi"
+        }
+      ],
+      "attributes": [
+        {
+          "name": "act_primary",
+          "value": "Duke Meets the Count with Wynton Marsalis"
+        }
+      ],
+      "displayAttributes": {
+        "isHidden": false,
+        "hideEventDate": false,
+        "hideEventTime": false,
+        "primaryName": "Rose Theater at Lincoln Center"
+      },
+      "mobileAttributes": {
+        "enableApplePassbook": false,
+        "mobileListingNotAllowed": false,
+        "stubhubMobileTicket": false
+      },
+      "score": 9.50054,
+      "createdDate": "2017-02-10T19:54:00+0000",
+      "defaultLocale": "en_US"
+    }
+  ]
+}

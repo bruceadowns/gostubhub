@@ -1,0 +1,7 @@
+{
+  "fault": {
+    "code": "900908",
+    "message": "Resource forbidden ",
+    "description": "Access failure for API: /accountmanagement/listings/v1, version: v1 status: (900908) - Resource forbidden "
+  }
+}
