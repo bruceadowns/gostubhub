@@ -52,7 +52,7 @@ func Listings(filter string, token string, c *Config, debug bool) (int, error) {
 
 	if resp.Status() != 200 {
 		log.Print(jError)
-		return resp.Status(), fmt.Errorf("Error occurred retrieving listings [%d]", resp.Status())
+		return resp.Status(), fmt.Errorf("error occurred retrieving listings [%d]", resp.Status())
 	}
 
 	log.Print(fmt.Sprintf("Retrieved [%d] user listings [%d]", len(jResponse.Listings), resp.Status()))

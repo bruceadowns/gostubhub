@@ -61,11 +61,11 @@ func DeserContexts(f string) (Contexts, error) {
 
 	in, err := ioutil.ReadAll(r)
 	if err != nil {
-		return nil, fmt.Errorf("Error reading config file")
+		return nil, fmt.Errorf("error reading config file")
 	}
 
 	if err := yaml.Unmarshal(in, &res); err != nil {
-		return nil, fmt.Errorf("Error decoding context yaml: %s", err)
+		return nil, fmt.Errorf("error decoding context yaml: %s", err)
 	}
 
 	return res, nil

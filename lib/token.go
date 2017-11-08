@@ -29,7 +29,7 @@ func promptPassword() (password string, err error) {
 // https://developer.stubhub.com/store/site/pages/doc-tutorials.jag
 func RefreshToken(config *Config, debug bool) (string, error) {
 	if config.RefreshToken == "" {
-		return "", fmt.Errorf("Refresh token is empty")
+		return "", fmt.Errorf("refresh token is empty")
 	}
 
 	basicAuthToken := fmt.Sprintf("%s:%s",
@@ -86,7 +86,7 @@ func RefreshToken(config *Config, debug bool) (string, error) {
 
 	if resp.Status() != http.StatusOK {
 		log.Print(jLoginError)
-		return "", fmt.Errorf("Invalid status code: %d", resp.Status())
+		return "", fmt.Errorf("invalid status code: %d", resp.Status())
 	}
 
 	log.Printf("Response: %d type: %s",
@@ -102,7 +102,7 @@ func RefreshToken(config *Config, debug bool) (string, error) {
 func ObtainToken(config *Config, userAPI, debug bool) (string, error) {
 	if !userAPI {
 		if config.ApplicationToken == "" {
-			return "", fmt.Errorf("Application token is empty")
+			return "", fmt.Errorf("application token is empty")
 		}
 
 		return config.ApplicationToken, nil
@@ -113,16 +113,16 @@ func ObtainToken(config *Config, userAPI, debug bool) (string, error) {
 	}
 
 	if config.UserName == "" {
-		return "", fmt.Errorf("User name is empty")
+		return "", fmt.Errorf("user name is empty")
 	}
 	if config.Scope == "" {
-		return "", fmt.Errorf("Scope is empty")
+		return "", fmt.Errorf("scope is empty")
 	}
 	if config.CustomerKey == "" {
-		return "", fmt.Errorf("Customer key is empty")
+		return "", fmt.Errorf("customer key is empty")
 	}
 	if config.CustomerSecret == "" {
-		return "", fmt.Errorf("Customer secret is empty")
+		return "", fmt.Errorf("customer secret is empty")
 	}
 
 	if config.Password == "" {
@@ -189,7 +189,7 @@ func ObtainToken(config *Config, userAPI, debug bool) (string, error) {
 
 	if resp.Status() != http.StatusOK {
 		log.Print(jLoginError)
-		return "", fmt.Errorf("Invalid status code: %d", resp.Status())
+		return "", fmt.Errorf("invalid status code: %d", resp.Status())
 	}
 
 	userID := resp.HttpResponse().Header.Get("X-Stubhub-User-Guid")

@@ -51,10 +51,11 @@ func Events(filter string, token string, c *Config, debug bool) (int, error) {
 	}
 	log.Print(resp.Header)
 	log.Print(resp.HttpResponse().Header)
+	log.Print(resp.Status())
 
 	if resp.Status() != 200 {
 		log.Print(jError)
-		return resp.Status(), fmt.Errorf("Error occurred retrieving events [%d]", resp.Status())
+		return resp.Status(), fmt.Errorf("error occurred retrieving events [%d]", resp.Status())
 	}
 
 	log.Print(fmt.Sprintf("Retrieved %d events [%d]", len(jResponse.Events), resp.Status()))
